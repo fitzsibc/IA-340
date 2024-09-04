@@ -1,0 +1,16 @@
+Name {
+	fips character varying pk
+	name character varying unique
+}
+
+Income {
+	fips character varying(4) pk *>* Income.id
+	income integer
+	year integer pk
+}
+
+Population {
+	fips character varying(4) pk *> Name.tips
+	pop integer
+	year integer pk
+}
