@@ -14,5 +14,5 @@
 SELECT 
     ((MAX(population) - MIN(population)) / MIN(population)) * 100 AS growth_rate_percentage
 FROM population_data;
-
+The prompt was modified to give a more accurate guideline. 
 --4.8 No, Chat GPT occasionally produces false answers but the better the prompt you give it, the better it performs. 
