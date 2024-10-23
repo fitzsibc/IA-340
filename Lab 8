@@ -1,0 +1,14 @@
+Q1: What is the storage limit of the free tier cluster? 
+512 Megabytes
+
+Q2: How many instances or servers are created in this Cluster?
+There are 3 instances created in the cluster. 
+
+Q3: How many databases are loaded?  
+9 databases were loaded. 
+
+Q4: How many collections are in this Database? 
+1 collection in this database. 
+
+Q5: How many Tweets are in the collection? 
+200 tweets in the collection
